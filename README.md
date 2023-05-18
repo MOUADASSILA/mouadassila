@@ -1,8 +1,8 @@
-### Hi there 👋
-## i am
+ Hi there 👋
 
--🧑‍💻 MOUAD ASSILA -
--💻 Front-End Developer -
+
+·🧑‍💻 i am MOUAD ASSILA -
+·💻 Front-End Developer -
 -🎓 Computer Engineering Student -
 -🔗 currently Learning Blockchain Development -
 -🚀 Familiar with , C++, C, SQL, and Java .
